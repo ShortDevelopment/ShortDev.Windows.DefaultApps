@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SetDefaultBrowser": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
